@@ -1,5 +1,5 @@
 # SetupWizard
-Reconfiguring it with old SetupWizard.
+This repo reconfigured the old SetupWizard to work fine.
 
 For you reference, the old things is below.
 
