@@ -1,5 +1,5 @@
 # SetupWizard
-This repo reconfigured the old SetupWizard to work fine with androidx.
+This repo reconfigured the old SetupWizard to work fine with androidx and AppCompat.
 
 ## For you reference, 
 the old things are below.
